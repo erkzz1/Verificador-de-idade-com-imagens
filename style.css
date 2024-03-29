@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+body {
+    background: #182e4b;
+    font: normal 15pt Arial;
+
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+section {
+    background: rgb(255, 255, 255);
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 32rem;
+    margin: auto;
+    box-shadow: 0.188rem 0.188rem 0.625rem rgba(0, 0, 0, 0.363);
+
+}
+
+.guia {
+    width: 9rem;
+    height: 2rem;
+    border-radius: 1rem;
+    border-width: 0.100rem;
+    text-align: center;
+
+
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.botao1 {
+    font-size: 15pt;
+    height: 4rem;
+    width: 10rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    border-width: 0.125rem;
+    background-color: #a8b2be80;
+
+
+
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
